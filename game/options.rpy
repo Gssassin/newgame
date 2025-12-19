@@ -56,6 +56,9 @@ Summer Pockets - VISUAL ARTS、Key Sounds Label
 照片来自个人拍摄/神秘舍友/神秘群友/神秘豆包
 
 
+项目已上传至 GitHub：https://github.com/Gssassin/newgame
+
+
 感谢游玩""")
 
 
